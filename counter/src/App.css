@@ -1,0 +1,31 @@
+.full{
+  margin-top: 10%;
+  margin-left:auto ;
+  margin-right:auto ;
+  border: 2px solid black;
+  width: 170px;
+  text-align:center ;
+  background-color: chocolate;
+  color: black;
+}
+.ui{
+  border: 1px solid black;
+
+}
+.backend{
+  border: 1px solid black;
+}
+button{
+  border: 1px solid black;
+  width: 40px;
+  margin: 5px;
+  color: white;
+  background-color: black;
+}
+.full :hover{
+  background-color:blanchedalmond;
+  color:black;
+}
+.backend :hover{
+  background-color: cornflowerblue !important;
+}
